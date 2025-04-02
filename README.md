@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somilbansal11&label=Profile%20views&color=0e75b6&style=flat" alt="somilbansal11" /> </p>
 
-- 🔭 I’m currently working on [Search Ahead](https://github.com/somilbansal11/SearchAhead)
+- 🔭 I’m currently working as a Data Engineer at Autodesk
 
-- 🌱 I’m currently learning **LangChain and Django**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **LLMs, ML/DL**
 
