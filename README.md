@@ -13,7 +13,7 @@
 
 📄 Know about my experiences [https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M](https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M)
 
-- ⚡ Fun fact **I like going out and socializing with like minded people and also explore**
+⚡ Fun fact **I like going out and socializing with like minded people and also explore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
