@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somilbansal11&label=Profile%20views&color=0e75b6&style=flat" alt="somilbansal11" /> </p>
 
-- 🔭 I’m currently working as a Data Science Specialist at General Electric Aerospace
+🔭 I’m currently working as a Data Science Specialist at General Electric Aerospace
 
-- 🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **LLMs, ML/DL**
+💬 Ask me about **LLMs, ML/DL**
 
-- 📫 How to reach me **somil.bansal.11@gmail.com**
+📫 How to reach me **somil.bansal.11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M](https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M)
+📄 Know about my experiences [https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M](https://www.linkedin.com/in/somil-bansal-0a095a215/overlay/1635541324672/single-media-viewer/?type=DOCUMENT&profileId=ACoAADZslPgBOxVs_D87NViXQ4BHXgai5AA327M)
 
 - ⚡ Fun fact **I like going out and socializing with like minded people and also explore**
 
