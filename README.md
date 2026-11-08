@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somilbansal11&label=Profile%20views&color=0e75b6&style=flat" alt="somilbansal11" /> </p>
 
-🔭 I’m currently working as a Data Science Specialist at General Electric Aerospace
+🔭 I’m currently working as a Applied AI Engineer at Neurogrid AI
 
-🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **Kubernetes**
 
 💬 Ask me about **LLMs, ML/DL**
 
